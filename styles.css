@@ -1,0 +1,48 @@
+body {
+  background: lightblue;
+  margin: 1rem;
+  padding: 1rem;
+  max-width: 500px;
+  margin: 2rem auto;
+  font-family: monospace;
+}
+
+nav {
+	border-bottom: 20px solid orange;
+}
+
+ol {
+	padding-left: 0;
+}
+
+.crumb {
+	margin-right: 2em;
+	display: inline;
+}
+
+a {
+	color: orange;
+}
+
+a:visited {
+	color: navy;
+}
+
+
+input {
+	display: block;
+}
+
+img {
+	height: 300px;
+	width: 600px;
+	border: 10px, 10px, black;
+
+}
+.myFav {
+	height: 20px;
+	width: 30px;
+	background-color: white;
+	color: navy;
+	border-radius: 50%;
+}
