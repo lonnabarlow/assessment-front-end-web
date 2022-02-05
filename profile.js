@@ -1,15 +1,15 @@
 const getAllBtns = document.querySelector(".myFave")
-getAllBtns.style.backgroundColor = "yellow";
+getAllBtns.style.backgroundColor = "lightyellow";
 getAllBtns.style.width = "60px";
 
 
 const changePlaceBtn = document.querySelector("#place")
-changePlaceBtn.style.backgroundColor = "yellow";
+changePlaceBtn.style.backgroundColor = "lightyellow";
 changePlaceBtn.style.width = "60px";
 
 
 const changeRitualBtn = document.querySelector("#ritual")
-changeRitualBtn.style.backgroundColor = "yellow"
+changeRitualBtn.style.backgroundColor = "lightyellow"
 changeRitualBtn.style.width = "60px"
 
 

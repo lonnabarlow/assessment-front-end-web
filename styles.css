@@ -39,10 +39,10 @@ img {
 	border: 10px, 10px, black;
 
 }
-.myFav {
-	height: 20px;
-	width: 30px;
+button {
+	height: 100px;
+	width: 100px;
 	background-color: white;
 	color: navy;
-	border-radius: 50%;
+	border-radius: 15px;
 }
